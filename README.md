@@ -1,6 +1,6 @@
 # Movies-ETL
 
-This project uses the ETL process to the following:
+This project uses the ETL process to complete the following:
 
 1. Read and extract three data files
 2. Clean/transform/merge the data
